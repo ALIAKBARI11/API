@@ -1,0 +1,310 @@
+@import "tailwindcss";
+
+@theme {
+  --breakpoint-desktop: 1024px;
+  --breakpoint-mobile: 10px;
+  --font-Iran: Shabnam;
+  --border-color: #d7d7d7;
+  --spacing-color: #d7d7d7;
+  --font-number: Shabnam;
+}
+
+@font-face {
+  font-family: Shabnam;
+  src: url(../fonts/Shabnam-Light-FD.woff2) format('woff2'),
+    url(../fonts/Shabnam-Light-FD.woff) format('woff'),
+    url(../fonts/Shabnam-Light-FD.ttf) format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@layer utilities {
+  .direction-ltr {
+    direction: ltr;
+  }
+
+  .direction-rtl {
+    direction: rtl;
+  }
+}
+
+.custom-scroll {
+  width: 300px;
+  height: 200px;
+  overflow-y: auto;
+  /* خیلی مهم */
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+/* کل اسکرول‌بار */
+.custom-scroll::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* پس‌زمینه اسکرول‌بار */
+.custom-scroll::-webkit-scrollbar-track {
+  background: lightpink;
+  border-radius: 10px;
+}
+
+/* خود اسکرول (thumb) */
+.custom-scroll::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 10px;
+}
+
+/* hover */
+.custom-scroll::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.locswiper {
+  position: relative;
+  padding-inline: 52px;
+}
+
+.locswiper .swiper-slide {
+  display: flex;
+  justify-content: center;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  width: 30px;
+  height: 30px;
+  border: 1px solid #d1d5db;
+  border-radius: 9999px;
+  background: #ffffff;
+  padding: 13px;
+  box-sizing: border-box;
+  color: #7e8187 !important;
+}
+
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  font-weight: 900;
+  font-size: 10px;
+}
+
+.swiper-button-prev {
+  right: 0;
+  left: auto;
+}
+
+.swiper-button-next {
+  left: 0;
+  right: auto;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  transition: all 0.25s ease;
+}
+
+.swiper-button-disabled {
+  opacity: 0;
+  visibility: hidden;
+  transform: scale(0.8);
+  pointer-events: none;
+}
+
+.slider .swiper-pagination-bullet-active {
+  background-color: white;
+  width: 20px !important;
+  border-radius: 9999px;
+  height: 5px;
+}
+
+.slider .swiper-pagination-bullet {
+  background-color: #d7d7d7;
+  width: 5px;
+  height: 5px;
+}
+
+/* hide scrollbar but keep scroll */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  /* IE/Edge */
+  scrollbar-width: none;
+  /* Firefox */
+}
+
+
+/* Services section smooth animation */
+.services-items {
+  transition: all 0.3s ease-in-out;
+}
+
+.services-items img {
+  transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+}
+
+.services-items span {
+  transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+}
+
+.services-items:hover img {
+  transform: translateY(-4px);
+}
+
+.services-items:hover span {
+  transform: translateY(4px);
+}
+
+/* Fix logo aspect ratio */
+header .logo img {
+  object-fit: contain;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+/* Sticky header with smooth scroll behavior */
+header.sticky {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+}
+
+/* Smooth swiper transitions */
+.Slider {
+  transition: transform 0.8s cubic-bezier(0.25, 0.1, 0.25, 1);
+}
+
+/* Category menu slide from right */
+[data-tabs-sheet] {
+  transform: translateX(100%);
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+[data-tabs-sheet]:not(.translate-x-full) {
+  transform: translateX(0);
+}
+
+/* RTL support for category menu */
+html[dir="rtl"] [data-tabs-sheet] {
+  right: 0;
+  left: auto;
+}
+
+/* Desktop Category */
+.category {
+  transition: all 0.3s ease-in-out;
+  height: 32px;
+  max-height: 32px;
+  overflow: visible;
+  position: relative;
+  z-index: 10;
+}
+
+.hide-category {
+  max-height: 0 !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  overflow: hidden !important;
+}
+
+/* Mobile Services */
+header.sticky.mobile\:block {
+  transition: height 0.3s ease;
+}
+
+.services-items {
+  transition: height 0.4s cubic-bezier(0.4, 0, 0.2, 1), padding 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.services-items img {
+  transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1),
+    opacity 0.4s cubic-bezier(0.4, 0, 0.2, 1),
+    margin 0.4s cubic-bezier(0.4, 0, 0.2, 1),
+    height 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  height: 40px;
+  width: auto;
+  object-fit: contain;
+  transform-origin: center;
+  will-change: transform, opacity, height;
+}
+
+.header-shrunk .services-items {
+  height: 32px !important;
+  justify-content: center !important;
+  padding-top: 2px !important;
+  padding-bottom: 2px !important;
+}
+
+.header-shrunk .services-items img {
+  transform: scale(0) !important;
+  height: 0px !important;
+  opacity: 0 !important;
+  margin: 0 !important;
+}
+
+/* Parallax Slider */
+@media (max-width: 1023px) {
+  .parallax-slider {
+    position: sticky !important;
+    top: var(--mob-header-normal, 168px) !important;
+    z-index: 1 !important;
+    transition: top 0.3s ease;
+  }
+
+  header.header-shrunk~.parallax-slider {
+    top: var(--mob-header-shrunk, 128px) !important;
+  }
+
+  .mobile-parallax-wrapper {
+    position: relative !important;
+    z-index: 10 !important;
+    background-color: #fff !important;
+    width: 100% !important;
+  }
+}
+
+/* Desktop slider - remove any gaps */
+@media (min-width: 1024px) {
+  .parallax-slider {
+    margin-top: 0 !important;
+    position: relative !important;
+  }
+}
+
+/* Mobile slider height fix */
+@media (max-width: 1023px) {
+  .parallax-slider {
+    height: 180px !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+
+  .parallax-slider .swiper {
+    height: 100% !important;
+    border-radius: 0.5rem;
+  }
+
+  .parallax-slider .swiper-slide {
+    height: 100% !important;
+  }
+
+  .parallax-slider .swiper-slide img {
+    height: 100% !important;
+    width: 100% !important;
+    object-fit: cover !important;
+  }
+}
+
+@media (min-width: 1024px) {
+  .desktop-contents {
+    display: contents !important;
+  }
+}
+
+body,
+html {
+  overflow-x: clip;
+}

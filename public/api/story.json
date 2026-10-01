@@ -1,0 +1,2013 @@
+{
+"status": 200,
+"data": {
+"lives": [],
+"posts": [
+{
+"id": "165112971716",
+"title": "موندگاری آرایشتو بیش...",
+"caption": "موندگاری آرایشتو بیشتر کن",
+"type": "post",
+"status": "verified",
+"link": null,
+"category_ids": [
+6978
+],
+"tag_ids": [
+24016,
+4260,
+28928,
+1,
+11262,
+26016
+],
+"user_setting_id": "130118891755",
+"related_product_ids": [
+12572048
+],
+"public_list_id": null,
+"public_list_code": null,
+"views_count": 16712,
+"likes_count": 92,
+"comments_count": 5,
+"created_at": "2025-12-11 22:24:35",
+"author": {
+"id": "130118891755",
+"name": "سحر جانباز",
+"username": "cosmuty_",
+"photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/c3b83574c7f24347f79847a46ebb605165fa6fa5_1724026718.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+"marketplace_seller_id": null,
+"badge": {
+"id": 2,
+"title": "blue tick",
+"code": "1",
+"logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+},
+"seller_info": null
+},
+"media": [
+{
+"id": 1297212,
+"status": "verified",
+"type": "video",
+"url": "https://digikala.arvanvod.ir/qwkg7wg610/XmlPZNPyMW/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+"ratio": 0.5627,
+"cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/a6702ca7b70cf7b27daf86952623f19898dc19cd_1765479280.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+"cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/a6702ca7b70cf7b27daf86952623f19898dc19cd_1765479280.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+"cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/a6702ca7b70cf7b27daf86952623f19898dc19cd_1765479280.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+}
+],
+"tags": [
+{
+"id": 24016,
+"title": "سحر_جانباز"
+},
+{
+"id": 4260,
+"title": "تثبیت_کننده"
+},
+{
+"id": 28928,
+"title": "پودرفیکس_"
+},
+{
+"id": 1,
+"title": "پیشنهاد_خرید"
+},
+{
+"id": 11262,
+"title": "خرید_با_چشمان_باز"
+},
+{
+"id": 26016,
+"title": "خریدمش"
+}
+],
+"products": [
+{
+"id": 12572048,
+"title_fa": "پودر تثبیت کننده آرایش شیگلم مدل Translucent",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/fd138ab0e534765005bb6e70a1edda1427c31463_1693822334.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 12100000,
+"rrp_price": 12100000,
+"discount_percent": 0
+}
+}
+],
+"friends_like": [],
+"share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. https://www.digikala.com/magnet/posts/165112971716/",
+"circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/a6702ca7b70cf7b27daf86952623f19898dc19cd_1765479280.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+},
+{
+"id": "195111846106",
+"title": "اینا رو نخر",
+"caption": "",
+"type": "post",
+"status": "verified",
+"link": null,
+"category_ids": [
+6029
+],
+"tag_ids": [],
+"user_setting_id": "7921175598",
+"related_product_ids": [
+2149402,
+14855531,
+12309994,
+999981
+],
+"public_list_id": null,
+"public_list_code": null,
+"views_count": 27056,
+"likes_count": 174,
+"comments_count": 2,
+"created_at": "2025-12-12 02:10:15",
+"author": {
+"id": "7921175598",
+"name": "آرین ترمیمی",
+"username": "boardr",
+"photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/d9bafb0c51bce812b49b4d5d2d94cda85336f255_1654384043.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+"marketplace_seller_id": null,
+"badge": {
+"id": 2,
+"title": "blue tick",
+"code": "1",
+"logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+},
+"seller_info": null
+},
+"media": [
+{
+"id": 1297250,
+"status": "verified",
+"type": "video",
+"url": "https://digikala.arvanvod.ir/qwkg7wg610/X4aQ91Q10R/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+"ratio": 0.5625,
+"cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/7eb28c1f5f415a6a7bce0623fdb97b4acb626271_1765492809.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+"cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/7eb28c1f5f415a6a7bce0623fdb97b4acb626271_1765492809.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+"cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/7eb28c1f5f415a6a7bce0623fdb97b4acb626271_1765492809.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+}
+],
+"tags": [],
+"products": [
+{
+"id": 2149402,
+"title_fa": "بازی فکری بازبازی مدل Chinatown",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/114018699.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 8450000,
+"rrp_price": 11000000,
+"discount_percent": 23
+}
+},
+{
+"id": 14855531,
+"title_fa": "بازی فکری مدل به کراکن غذا بده FEED THE KRAKEN",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/656d695a317dc286fb3011356470170dd9af779d_1754253499.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 7055400,
+"rrp_price": 7550000,
+"discount_percent": 7
+}
+},
+{
+"id": 12309994,
+"title_fa": "بازی فکری مدل سیلور طلسم پلاس پرومو",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/d5c5ba130c60fc8dc2c6cd12c67444305bb7ba06_1754250584.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 4440000,
+"rrp_price": 4440000,
+"discount_percent": 0
+}
+},
+{
+"id": 999981,
+"title_fa": "بازی فکری مونوپولی مدل Az184",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/2a52d4877f61bc3e37f1cb48318a1998f116c0f9_1754835757.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 2280000,
+"rrp_price": 2280000,
+"discount_percent": 0
+}
+}
+],
+"friends_like": [],
+"share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. https://www.digikala.com/magnet/posts/195111846106/",
+"circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/7eb28c1f5f415a6a7bce0623fdb97b4acb626271_1765492809.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+},
+{
+"id": "128113650416",
+"title": "یه سشوار حرفه ای",
+"caption": "یه سشوار حرفه ای",
+"type": "post",
+"status": "verified",
+"link": null,
+"category_ids": [
+2401
+],
+"tag_ids": [
+30972,
+3833,
+1,
+26016
+],
+"user_setting_id": "162111034754",
+"related_product_ids": [
+18839413,
+18586904
+],
+"public_list_id": null,
+"public_list_code": null,
+"views_count": 18045,
+"likes_count": 89,
+"comments_count": 1,
+"created_at": "2025-12-24 15:05:40",
+"author": {
+"id": "162111034754",
+"name": "مژگان عبادی",
+"username": "Mojgan.Ebadi",
+"photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/63bed377c2db99c43f6e9cdd887a58c7772ef5a1_1726353588.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+"marketplace_seller_id": null,
+"badge": {
+"id": 2,
+"title": "blue tick",
+"code": "1",
+"logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+},
+"seller_info": null
+},
+"media": [
+{
+"id": 1297948,
+"status": "verified",
+"type": "video",
+"url": "https://digikala.arvanvod.ir/qwkg7wg610/L190dE5OGb/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+"ratio": 0.5626,
+"cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/77e16a4aee11ece96304b46715c692515df3a22f_1766577568.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+"cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/77e16a4aee11ece96304b46715c692515df3a22f_1766577568.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+"cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/77e16a4aee11ece96304b46715c692515df3a22f_1766577568.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+}
+],
+"tags": [
+{
+"id": 30972,
+"title": "سشوار_حرفه_ای"
+},
+{
+"id": 3833,
+"title": "سشوار"
+},
+{
+"id": 1,
+"title": "پیشنهاد_خرید"
+},
+{
+"id": 26016,
+"title": "خریدمش"
+}
+],
+"products": [
+{
+"id": 18839413,
+"title_fa": "سشوار حرفه ای لکسیون مدل Rapid Air Pro HD:1698",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/f277c89305ac9e9a57ad08c14e85655d70aa44c7_1744088787.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 109627400,
+"rrp_price": 119160200,
+"discount_percent": 8
+}
+},
+{
+"id": 18586904,
+"title_fa": "سشوار حرفه ای 1600 وات لکسیون مدل Rapid Air Pro HD:1698",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/9068b32d9fdc0e7355e0f7cc0dda395b04d0c9da_1744120661.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 116313800,
+"rrp_price": 126428000,
+"discount_percent": 8
+}
+}
+],
+"friends_like": [],
+"share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. https://www.digikala.com/magnet/posts/128113650416/",
+"circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/77e16a4aee11ece96304b46715c692515df3a22f_1766577568.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+},
+{
+"id": "128112775572",
+"title": "توان بالا اتصال مطمئ...",
+"caption": "توان بالا اتصال مطمئن",
+"type": "post",
+"status": "verified",
+"link": null,
+"category_ids": [
+80
+],
+"tag_ids": [],
+"user_setting_id": "155116847917",
+"related_product_ids": [
+12557439
+],
+"public_list_id": null,
+"public_list_code": null,
+"views_count": 37990,
+"likes_count": 283,
+"comments_count": 14,
+"created_at": "2025-12-21 17:11:39",
+"author": {
+"id": "155116847917",
+"name": "این چند",
+"username": "Inchand",
+"photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/835b33288f1e6f5c3447d08a03675091f1db2283_1730544471.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+"marketplace_seller_id": null,
+"badge": {
+"id": 2,
+"title": "blue tick",
+"code": "1",
+"logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+},
+"seller_info": null
+},
+"media": [
+{
+"id": 1297757,
+"status": "verified",
+"type": "video",
+"url": "https://digikala.arvanvod.ir/qwkg7wg610/yzPQo9jew2/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+"ratio": 0.5625,
+"cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/0774b7badb76a9a6f348cc6eb678023c8f7b444f_1766324500.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+"cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/0774b7badb76a9a6f348cc6eb678023c8f7b444f_1766324500.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+"cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/0774b7badb76a9a6f348cc6eb678023c8f7b444f_1766324500.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+}
+],
+"tags": [],
+"products": [
+{
+"id": 12557439,
+"title_fa": "کابل تبدیل USB-C باسئوس مدل (TUNGSTEN GOLD (240W طول 3 متر",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/f2ef38a4a44c8e67e6c41011b7ce423913d445e7_1693655999.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 13990000,
+"rrp_price": 13990000,
+"discount_percent": 0
+}
+}
+],
+"friends_like": [],
+"share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. https://www.digikala.com/magnet/posts/128112775572/",
+"circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/0774b7badb76a9a6f348cc6eb678023c8f7b444f_1766324500.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+},
+{
+"id": "15911307277",
+"title": "فقط ببین و لذت ببر 🖤",
+"caption": "فقط ببین و لذت ببر 🖤",
+"type": "post",
+"status": "verified",
+"link": null,
+"category_ids": [
+10305
+],
+"tag_ids": [],
+"user_setting_id": "75111955458",
+"related_product_ids": [
+20227435
+],
+"public_list_id": null,
+"public_list_code": null,
+"views_count": 12546,
+"likes_count": 57,
+"comments_count": 5,
+"created_at": "2025-12-22 05:02:52",
+"author": {
+"id": "75111955458",
+"name": "مهدی شیری",
+"username": "Mahdi.shiri",
+"photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/4353faaaf228006ea9b779f35eab053a883cc4ab_1683895928.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+"marketplace_seller_id": null,
+"badge": null,
+"seller_info": null
+},
+"media": [
+{
+"id": 1297814,
+"status": "verified",
+"type": "video",
+"url": "https://digikala.arvanvod.ir/qwkg7wg610/Wol4Xz2XO9/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+"ratio": 0.5712,
+"cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/3bb4d17b91d6fea2b70389a94e04d53573115b6e_1766367170.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+"cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/3bb4d17b91d6fea2b70389a94e04d53573115b6e_1766367170.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+"cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/3bb4d17b91d6fea2b70389a94e04d53573115b6e_1766367170.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+}
+],
+"tags": [],
+"products": [
+{
+"id": 20227435,
+"title_fa": "سویشرت مردانه ترندیول مدل 837957715",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/63b6e5196a0857c576aefb6c99ea789891e06b3d_1758110500.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 9610000,
+"rrp_price": 21380000,
+"discount_percent": 55
+}
+}
+],
+"friends_like": [],
+"share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. https://www.digikala.com/magnet/posts/15911307277/",
+"circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/3bb4d17b91d6fea2b70389a94e04d53573115b6e_1766367170.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+},
+{
+"id": "8881148524",
+"title": "گوشیتو به قمقمه متصل کن",
+"caption": "",
+"type": "post",
+"status": "verified",
+"link": null,
+"category_ids": [
+11181
+],
+"tag_ids": [],
+"user_setting_id": "121117484432",
+"related_product_ids": [
+20597376
+],
+"public_list_id": null,
+"public_list_code": null,
+"views_count": 5998,
+"likes_count": 31,
+"comments_count": 1,
+"created_at": "2025-12-22 01:12:42",
+"author": {
+"id": "121117484432",
+"name": "سروش پوراسمعیل",
+"username": "Techodio",
+"photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/0a53f3fe3014199b7c388bec79a7637ef7af2afe_1731410111.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+"marketplace_seller_id": null,
+"badge": {
+"id": 2,
+"title": "blue tick",
+"code": "1",
+"logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+},
+"seller_info": null
+},
+"media": [
+{
+"id": 1297801,
+"status": "verified",
+"type": "video",
+"url": "https://digikala.arvanvod.ir/qwkg7wg610/ekEVpOlyMj/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+"ratio": 0.5627,
+"cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/dae409df7e25645f968d00009391bc4ced8a154c_1766353418.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+"cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/dae409df7e25645f968d00009391bc4ced8a154c_1766353418.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+"cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/dae409df7e25645f968d00009391bc4ced8a154c_1766353418.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+}
+],
+"tags": [],
+"products": [
+{
+"id": 20597376,
+"title_fa": "قمقمه ورزشی پرودو مدل lfst134 گنجایش 1 لیتر",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/d20f49972473288f2c0a02675d5bac3c9bad30c5_1759652669.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 17004400,
+"rrp_price": 18900000,
+"discount_percent": 10
+}
+}
+],
+"friends_like": [],
+"share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. https://www.digikala.com/magnet/posts/8881148524/",
+"circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/dae409df7e25645f968d00009391bc4ced8a154c_1766353418.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+},
+{
+"id": "73611991215",
+"title": "خواب راحت با نیناپت",
+"caption": "خواب راحت با نیناپت",
+"type": "post",
+"status": "verified",
+"link": null,
+"category_ids": [
+8723,
+8722
+],
+"tag_ids": [
+10572,
+26016,
+11262,
+1,
+662,
+26567,
+24415
+],
+"user_setting_id": "2301152685",
+"related_product_ids": [
+19820761,
+19899575,
+19825416,
+19903116,
+19853629,
+19740865,
+19822317,
+19756531,
+19840404,
+19837167,
+7192429,
+7192996,
+19656778,
+20858247,
+19656448,
+19656114,
+20855460,
+9046353,
+19661434,
+19795302,
+6066093
+],
+"public_list_id": null,
+"public_list_code": null,
+"views_count": 6962,
+"likes_count": 34,
+"comments_count": 1,
+"created_at": "2025-12-21 15:57:43",
+"author": {
+"id": "2301152685",
+"name": "سحر محمدی",
+"username": "sahar.mohammadi",
+"photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/2dd657c8a7f177d5d54727a45bc879dd7ed7888c_1723251766.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+"marketplace_seller_id": null,
+"badge": {
+"id": 2,
+"title": "blue tick",
+"code": "1",
+"logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+},
+"seller_info": null
+},
+"media": [
+{
+"id": 1297754,
+"status": "verified",
+"type": "video",
+"url": "https://digikala.arvanvod.ir/qwkg7wg610/kd3xQ1xmWG/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+"ratio": 0.5623,
+"cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/c4ec40476fda5eca418ee7b9dcb31bc93bd17ece_1766320064.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+"cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/c4ec40476fda5eca418ee7b9dcb31bc93bd17ece_1766320064.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+"cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/c4ec40476fda5eca418ee7b9dcb31bc93bd17ece_1766320064.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+}
+],
+"tags": [
+{
+"id": 10572,
+"title": "کیوت_کده_"
+},
+{
+"id": 26016,
+"title": "خریدمش"
+},
+{
+"id": 11262,
+"title": "خرید_با_چشمان_باز"
+},
+{
+"id": 1,
+"title": "پیشنهاد_خرید"
+},
+{
+"id": 662,
+"title": "گربه"
+},
+{
+"id": 26567,
+"title": "سحر_محمدی"
+},
+{
+"id": 24415,
+"title": "اسکرچر_گربه"
+}
+],
+"products": [
+{
+"id": 19820761,
+"title_fa": "جای خواب سگ و گربه نیناپت مدل وی آی پی یو طرح مارشمالو ",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/82fa771517bc92dc7dd6e6371ea40f0c00c912a2_1752473713.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 26000000,
+"rrp_price": 27400000,
+"discount_percent": 5
+}
+},
+{
+"id": 19899575,
+"title_fa": "جای خواب سگ و گربه نیناپت مدل یو",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/131c5bdd858e8d5f7bd00aa8e5927acaac058d29_1752991731.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 24500000,
+"rrp_price": 25800000,
+"discount_percent": 5
+}
+},
+{
+"id": 19825416,
+"title_fa": "جای خواب سگ و گربه نیناپت مدل وی آی پی یو طرح کفشدوزک",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/d485abf153d7b45f8055d119c5090d3c23fb458c_1752492721.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 33700000,
+"rrp_price": 35500000,
+"discount_percent": 5
+}
+},
+{
+"id": 19903116,
+"title_fa": "جای خواب سگ و گربه نیناپت مدل زیپ لاین U",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/07938431bb90eb32e2015740fcad165bcee01369_1753008933.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 15670000,
+"rrp_price": 16500000,
+"discount_percent": 5
+}
+},
+{
+"id": 19853629,
+"title_fa": "جای خواب سگ و گربه نیناپت مدل یو",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/1b6c14a7bf93570fd9b1cbe5fdbc535d1074dfb6_1752650503.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 17800000,
+"rrp_price": 18750000,
+"discount_percent": 5
+}
+},
+{
+"id": 19740865,
+"title_fa": "جای خواب سگ و گربه نیناپت مدل زیپ لاین",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/3452f646157f61bf87062a63cf018f8dde020df2_1752312150.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 24500000,
+"rrp_price": 25800000,
+"discount_percent": 5
+}
+},
+{
+"id": 19822317,
+"title_fa": "جای خواب سگ و گربه نیناپت مدل وی آی پی یو طرح حیوانات ",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/2d08a325efce00119fb6121c0c496a578a5cd63d_1752480272.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 26000000,
+"rrp_price": 27400000,
+"discount_percent": 5
+}
+},
+{
+"id": 19756531,
+"title_fa": "جای خواب سگ و گربه نیناپت مدل پراوو",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/cb673f16e3522348444952c94614db77778944c6_1752388655.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 20700000,
+"rrp_price": 21800000,
+"discount_percent": 5
+}
+},
+{
+"id": 19840404,
+"title_fa": "جای خواب سگ نیناپت مدل وی آی پی یو طرح سگ و گربه سایز 4",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/8b2338750f073b9322674381d1454d18d922f05c_1752572831.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 56000000,
+"rrp_price": 59000000,
+"discount_percent": 5
+}
+},
+{
+"id": 19837167,
+"title_fa": "جای خواب سگ و گربه نیناپت مدل یو",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/24cb30d3421d64d79215b2c608ec67f4539157d5_1752560953.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 35500000,
+"rrp_price": 37400000,
+"discount_percent": 5
+}
+},
+{
+"id": 7192429,
+"title_fa": "اسکرچر گربه مدل درختی نیناپت کد B1",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/21a1f4ceda4a836e5dee37d645ec8ec2f6b8ed44_1638608159.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 70500000,
+"rrp_price": 74200000,
+"discount_percent": 5
+}
+},
+{
+"id": 7192996,
+"title_fa": "اسکرچر گربه مدل درختی نیناپت کد 12O",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/b1c9b7a57055548a859290896d1dbed9e9010497_1638630157.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 130000000,
+"rrp_price": 137000000,
+"discount_percent": 5
+}
+},
+{
+"id": 19656778,
+"title_fa": "اسکرچر گربه نیناپت مدل I",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/26bf279c4384be2a5b863d5d7c73fbef0062c477_1751872525.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 30800000,
+"rrp_price": 32500000,
+"discount_percent": 5
+}
+},
+{
+"id": 20858247,
+"title_fa": "مینی اسکرچر گربه نیناپت مدل فنردار A",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/059af373b5ffa90878086b392a3c5567041b5e5b_1762695633.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 3990000,
+"rrp_price": 4200000,
+"discount_percent": 5
+}
+},
+{
+"id": 19656448,
+"title_fa": "اسکرچر گربه نیناپت مدل A ",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/93e19088c92ec72a81e7e0e6dda4256ad7faed4d_1751874100.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 70400000,
+"rrp_price": 74200000,
+"discount_percent": 5
+}
+},
+{
+"id": 19656114,
+"title_fa": "اسکرچر گربه نیناپت مدل K",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/b5ca39f16224332e0aa912ea229b5d548c29380d_1752504614.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 116500000,
+"rrp_price": 122700000,
+"discount_percent": 5
+}
+},
+{
+"id": 20855460,
+"title_fa": "اسکرچر گربه نیناپت مدل عروسک دار",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/521db5c4ef8404348d2eeba3a62ab0b1d24e6892_1762759246.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 13870000,
+"rrp_price": 14600000,
+"discount_percent": 5
+}
+},
+{
+"id": 9046353,
+"title_fa": "اسکرچر گربه نیناپت مدل رولی",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/b139bff2af8b5ddaeb77702fcb3aa7fb90ba6384_1659499215.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 15600000,
+"rrp_price": 16450000,
+"discount_percent": 5
+}
+},
+{
+"id": 19661434,
+"title_fa": "اسکرچر گربه نیناپت مدل ابر و ماه B",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/24bc7483b9d0c995323b0a378c6920aa62c79a43_1751873085.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 49000000,
+"rrp_price": 51700000,
+"discount_percent": 5
+}
+},
+{
+"id": 19795302,
+"title_fa": "اسکرچر گربه نیناپت مدل X",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/0c75d1e229a4296ff0d672cea8130412669ddc39_1752504476.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": null,
+"rrp_price": null,
+"discount_percent": null
+}
+}
+],
+"friends_like": [],
+"share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. https://www.digikala.com/magnet/posts/73611991215/",
+"circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/c4ec40476fda5eca418ee7b9dcb31bc93bd17ece_1766320064.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+},
+{
+"id": "138113005567",
+"title": "بستنی آلمانی",
+"caption": "بستنی آلمانی",
+"type": "post",
+"status": "verified",
+"link": null,
+"category_ids": [
+11092,
+11091
+],
+"tag_ids": [],
+"user_setting_id": "2301152685",
+"related_product_ids": [
+16016146,
+16016097,
+19410981,
+20220806
+],
+"public_list_id": null,
+"public_list_code": null,
+"views_count": 5123,
+"likes_count": 29,
+"comments_count": 1,
+"created_at": "2025-12-22 02:00:28",
+"author": {
+"id": "2301152685",
+"name": "سحر محمدی",
+"username": "sahar.mohammadi",
+"photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/2dd657c8a7f177d5d54727a45bc879dd7ed7888c_1723251766.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+"marketplace_seller_id": null,
+"badge": {
+"id": 2,
+"title": "blue tick",
+"code": "1",
+"logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+},
+"seller_info": null
+},
+"media": [
+{
+"id": 1297807,
+"status": "verified",
+"type": "video",
+"url": "https://digikala.arvanvod.ir/qwkg7wg610/qbR7xZOVM4/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+"ratio": 0.5623,
+"cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/8cd9eb56bebd2d67c3dcacdf562b6de7dcec4bc4_1766356228.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+"cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/8cd9eb56bebd2d67c3dcacdf562b6de7dcec4bc4_1766356228.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+"cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/8cd9eb56bebd2d67c3dcacdf562b6de7dcec4bc4_1766356228.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+}
+],
+"tags": [],
+"products": [
+{
+"id": 16016146,
+"title_fa": "تشویقی گربه وینستون مدل بستنی مرغ و ماهی گوشت و پنیر وزن 120 گرم مجموعه دو عددی",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/8e92df8a4a39b4cba18ee03050ce7ae67c18c077_1720557522.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 5739000,
+"rrp_price": 7872000,
+"discount_percent": 27
+}
+},
+{
+"id": 16016097,
+"title_fa": "تشویقی گربه وینستون مدل بستنی مرغ و ماهی وزن 120 گرم",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/d5b343aec00bc5521fc73a9e02c471d0292472dd_1720525391.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 2972000,
+"rrp_price": 2972000,
+"discount_percent": 0
+}
+},
+{
+"id": 19410981,
+"title_fa": "بستنی گربه وینستون مدل ماهی و مرغ بسته 8 عددی",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/2933dbed41584163362a4406c36ef10d542b1390_1749449693.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 3010000,
+"rrp_price": 3010000,
+"discount_percent": 0
+}
+},
+{
+"id": 20220806,
+"title_fa": "تشویقی گربه وینستون مدل بستنی طعم وانیل و مالت وزن 120 گرم",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/e5e211802bdc14ff3c64ff97c63b4e3cec3b9d54_1755710985.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 2830500,
+"rrp_price": 2830500,
+"discount_percent": 0
+}
+}
+],
+"friends_like": [],
+"share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. https://www.digikala.com/magnet/posts/138113005567/",
+"circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/8cd9eb56bebd2d67c3dcacdf562b6de7dcec4bc4_1766356228.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+},
+{
+"id": "139113714878",
+"title": "با اکسپنشن بخر",
+"caption": "",
+"type": "post",
+"status": "verified",
+"link": null,
+"category_ids": [
+6029
+],
+"tag_ids": [],
+"user_setting_id": "7921175598",
+"related_product_ids": [
+19977784,
+14118353,
+5984766
+],
+"public_list_id": null,
+"public_list_code": null,
+"views_count": 16871,
+"likes_count": 139,
+"comments_count": 2,
+"created_at": "2025-12-23 03:45:34",
+"author": {
+"id": "7921175598",
+"name": "آرین ترمیمی",
+"username": "boardr",
+"photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/d9bafb0c51bce812b49b4d5d2d94cda85336f255_1654384043.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+"marketplace_seller_id": null,
+"badge": {
+"id": 2,
+"title": "blue tick",
+"code": "1",
+"logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+},
+"seller_info": null
+},
+"media": [
+{
+"id": 1297873,
+"status": "verified",
+"type": "video",
+"url": "https://digikala.arvanvod.ir/qwkg7wg610/emwg2anyGN/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+"ratio": 0.5625,
+"cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/58fef299bb17c27f03ce449e5a93d17283b9d228_1766448932.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+"cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/58fef299bb17c27f03ce449e5a93d17283b9d228_1766448932.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+"cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/58fef299bb17c27f03ce449e5a93d17283b9d228_1766448932.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+}
+],
+"tags": [],
+"products": [
+{
+"id": 19977784,
+"title_fa": "بازی فکری اسپیس برد مدل آقای جک لندن نسخه افزونه Mr. Jack + exp",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/16f85fdb019ce451efbbf8f1c14a6bb990a39071_1753712281.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 7600000,
+"rrp_price": 7600000,
+"discount_percent": 0
+}
+},
+{
+"id": 14118353,
+"title_fa": "بازی فکری مدل DUEL BIG BOX PLUS PANTHEON AND AGORA",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/1c4caa0a2be497b5edcba21c59a55d540a19f6c0_1705417477.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": null,
+"rrp_price": null,
+"discount_percent": null
+}
+},
+{
+"id": 5984766,
+"title_fa": "بازی فکری فکرانه مدل اکسپنشن بازی کهربا مدل توسعه شهرها",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/e19081b17a5940c89bc25b338338cbf98b73c904_1627974094.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": null,
+"rrp_price": null,
+"discount_percent": null
+}
+}
+],
+"friends_like": [],
+"share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. https://www.digikala.com/magnet/posts/139113714878/",
+"circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/58fef299bb17c27f03ce449e5a93d17283b9d228_1766448932.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+},
+{
+"id": "83811811549",
+"title": "بازی و سریال",
+"caption": "",
+"type": "post",
+"status": "verified",
+"link": null,
+"category_ids": [
+6029
+],
+"tag_ids": [],
+"user_setting_id": "7921175598",
+"related_product_ids": [
+17782500,
+14254810,
+17052053
+],
+"public_list_id": null,
+"public_list_code": null,
+"views_count": 20089,
+"likes_count": 128,
+"comments_count": 2,
+"created_at": "2025-12-23 03:46:42",
+"author": {
+"id": "7921175598",
+"name": "آرین ترمیمی",
+"username": "boardr",
+"photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/d9bafb0c51bce812b49b4d5d2d94cda85336f255_1654384043.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+"marketplace_seller_id": null,
+"badge": {
+"id": 2,
+"title": "blue tick",
+"code": "1",
+"logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+},
+"seller_info": null
+},
+"media": [
+{
+"id": 1297874,
+"status": "verified",
+"type": "video",
+"url": "https://digikala.arvanvod.ir/qwkg7wg610/yrn0XA7pvP/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+"ratio": 0.5625,
+"cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/6fe76cc71d7a5545585ef77d7c7b2cc51f607942_1766448991.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+"cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/6fe76cc71d7a5545585ef77d7c7b2cc51f607942_1766448991.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+"cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/6fe76cc71d7a5545585ef77d7c7b2cc51f607942_1766448991.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+}
+],
+"tags": [],
+"products": [
+{
+"id": 17782500,
+"title_fa": "بازی فکری مدل شرلوک سیزده Sherlock13",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/30f71d762b0ec613f99c6538ade1852f59e7c299_1734811624.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 3000000,
+"rrp_price": 3000000,
+"discount_percent": 0
+}
+},
+{
+"id": 14254810,
+"title_fa": "بازی فکری مانترا مدل دراکولا در مقابل ون هلسینگ DRACULA VS VANHELSING",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/d80f43345aa2c638e5c6f67a1873e5e5e5718949_1754252894.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 5590000,
+"rrp_price": 5590000,
+"discount_percent": 0
+}
+},
+{
+"id": 17052053,
+"title_fa": "بازی فکری مدل پرونده معمایی آرسن لوپن آخرین سرقت Arsene Lupin",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/624cde4364a47c574063e45befaa08377f4f6915_1729094208.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 1316500,
+"rrp_price": 1316500,
+"discount_percent": 0
+}
+}
+],
+"friends_like": [],
+"share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. https://www.digikala.com/magnet/posts/83811811549/",
+"circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/6fe76cc71d7a5545585ef77d7c7b2cc51f607942_1766448991.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+},
+{
+"id": "119116924218",
+"title": "مکعب‌های واقعی ماینک...",
+"caption": "مکعب‌های واقعی ماینکرفت",
+"type": "post",
+"status": "verified",
+"link": null,
+"category_ids": [
+6033
+],
+"tag_ids": [],
+"user_setting_id": "1571178256",
+"related_product_ids": [
+20989620
+],
+"public_list_id": null,
+"public_list_code": null,
+"views_count": 9542,
+"likes_count": 82,
+"comments_count": 3,
+"created_at": "2025-12-14 10:43:17",
+"author": {
+"id": "1571178256",
+"name": "امیرحسین شبانی",
+"username": "Itsamirshabani",
+"photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/714e9ab421444c0f84bc458e0750b3b646b7e61d_1746099987.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+"marketplace_seller_id": null,
+"badge": null,
+"seller_info": null
+},
+"media": [
+{
+"id": 1297401,
+"status": "verified",
+"type": "video",
+"url": "https://digikala.arvanvod.ir/qwkg7wg610/GX5d4We6A4/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+"ratio": 0.5625,
+"cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/d5e3bcafe5541b5b8938ac5ec4482920d3533fa3_1765957959.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+"cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/d5e3bcafe5541b5b8938ac5ec4482920d3533fa3_1765957959.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+"cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/d5e3bcafe5541b5b8938ac5ec4482920d3533fa3_1765957959.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+}
+],
+"tags": [],
+"products": [
+{
+"id": 20989620,
+"title_fa": "ساختنی مغناطیسی 44 تکه نوشو مدل ماینکرفت کد Elite 44",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/6c6e7f85903a101e7287e615e7c369488bac13cb_1764414311.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 19800000,
+"rrp_price": 22500000,
+"discount_percent": 12
+}
+}
+],
+"friends_like": [],
+"share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. https://www.digikala.com/magnet/posts/119116924218/",
+"circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/d5e3bcafe5541b5b8938ac5ec4482920d3533fa3_1765957959.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+},
+{
+"id": "90511173321",
+"title": "مشکل هدست متا ⚠️ Met...",
+"caption": "مشکل هدست متا ⚠️ Meta Quest 3",
+"type": "post",
+"status": "verified",
+"link": null,
+"category_ids": [
+219
+],
+"tag_ids": [],
+"user_setting_id": "31211006373",
+"related_product_ids": [
+15913842
+],
+"public_list_id": null,
+"public_list_code": null,
+"views_count": 20262,
+"likes_count": 200,
+"comments_count": 15,
+"created_at": "2025-12-21 23:40:57",
+"author": {
+"id": "31211006373",
+"name": "شایان نباتی مقدم",
+"username": "Shayan.nm",
+"photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/40d03b5098ce0d478d26bb4c57a6bc1f5c12a2b1_1650892992.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+"marketplace_seller_id": null,
+"badge": {
+"id": 2,
+"title": "blue tick",
+"code": "1",
+"logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+},
+"seller_info": null
+},
+"media": [
+{
+"id": 1297791,
+"status": "verified",
+"type": "video",
+"url": "https://digikala.arvanvod.ir/qwkg7wg610/e2z0kr6qkW/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+"ratio": 0.5625,
+"cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/8521b49045b7e2566be71f559d5cbed7a9b6a798_1766347858.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+"cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/8521b49045b7e2566be71f559d5cbed7a9b6a798_1766347858.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+"cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/8521b49045b7e2566be71f559d5cbed7a9b6a798_1766347858.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+}
+],
+"tags": [],
+"products": [
+{
+"id": 15913842,
+"title_fa": "عینک واقعیت مجازی متا مدل Meta quest 3",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/251b0de9330efd85193c4027b8fabe1d5f84e48b_1719397716.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 790000000,
+"rrp_price": 790000000,
+"discount_percent": 0
+}
+}
+],
+"friends_like": [],
+"share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. https://www.digikala.com/magnet/posts/90511173321/",
+"circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/8521b49045b7e2566be71f559d5cbed7a9b6a798_1766347858.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+},
+{
+"id": "158110643462",
+"title": "کلاس کاری کدوم گوشی ...",
+"caption": "کلاس کاری کدوم گوشی بیشتره؟",
+"type": "post",
+"status": "verified",
+"link": null,
+"category_ids": [
+11
+],
+"tag_ids": [],
+"user_setting_id": "67711869559",
+"related_product_ids": [
+20125788,
+17918958
+],
+"public_list_id": null,
+"public_list_code": null,
+"views_count": 47654,
+"likes_count": 399,
+"comments_count": 18,
+"created_at": "2025-12-12 04:24:20",
+"author": {
+"id": "67711869559",
+"name": "علیرضا افشار",
+"username": "Alirezaafshar",
+"photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/96e8f0e3a74785c92aa262a04383a71fd68714fc_1669144745.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+"marketplace_seller_id": null,
+"badge": {
+"id": 2,
+"title": "blue tick",
+"code": "1",
+"logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+},
+"seller_info": null
+},
+"media": [
+{
+"id": 1297263,
+"status": "verified",
+"type": "video",
+"url": "https://digikala.arvanvod.ir/qwkg7wg610/JDoLby98VW/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+"ratio": 0.5625,
+"cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/520912dcb2abcb1541f1ed4484485d3ec5a4c0ec_1765957456.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+"cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/520912dcb2abcb1541f1ed4484485d3ec5a4c0ec_1765957456.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+"cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/520912dcb2abcb1541f1ed4484485d3ec5a4c0ec_1765957456.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+}
+],
+"tags": [],
+"products": [
+{
+"id": 20125788,
+"title_fa": "گوشی موبایل اپل مدل iPhone 17 Pro Max ZAA تک سیم کارت + eSim ظرفیت 512 گیگابایت و رم 12 گیگابایت - نات اکتیو ",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/0a0fbbdbedcb7be1e4cfe35e2776ef07a26d17c4_1759666568.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 3250000000,
+"rrp_price": 3250000000,
+"discount_percent": 0
+}
+},
+{
+"id": 17918958,
+"title_fa": "گوشی موبایل سامسونگ مدل Galaxy S25 Ultra دو سیم کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت - پک ویتنام",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/b898a97a346068c4f8e95cc9c7cfdf2b5f700e3f_1738145246.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 1720000000,
+"rrp_price": 1720000000,
+"discount_percent": 0
+}
+}
+],
+"friends_like": [],
+"share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. https://www.digikala.com/magnet/posts/158110643462/",
+"circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/520912dcb2abcb1541f1ed4484485d3ec5a4c0ec_1765957456.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+},
+{
+"id": "212118859067",
+"title": "نگهدارنده آب نیچرهای...",
+"caption": "نگهدارنده آب نیچرهایک",
+"type": "post",
+"status": "verified",
+"link": null,
+"category_ids": [
+6129
+],
+"tag_ids": [],
+"user_setting_id": "189115510792",
+"related_product_ids": [
+17762819
+],
+"public_list_id": null,
+"public_list_code": null,
+"views_count": 17115,
+"likes_count": 196,
+"comments_count": 8,
+"created_at": "2025-12-21 23:06:56",
+"author": {
+"id": "189115510792",
+"name": "آرمین پورکان",
+"username": "armin.pourkan",
+"photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/e84ad95b0c14ccffb03e08e61050beec571d382c_1753049840.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+"marketplace_seller_id": null,
+"badge": {
+"id": 2,
+"title": "blue tick",
+"code": "1",
+"logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+},
+"seller_info": null
+},
+"media": [
+{
+"id": 1297785,
+"status": "verified",
+"type": "video",
+"url": "https://digikala.arvanvod.ir/qwkg7wg610/Exwo5X29QA/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+"ratio": 0.5625,
+"cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/ee14d312c57829dad52c24c7e865f4d30451d791_1766345813.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+"cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/ee14d312c57829dad52c24c7e865f4d30451d791_1766345813.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+"cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/ee14d312c57829dad52c24c7e865f4d30451d791_1766345813.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+}
+],
+"tags": [],
+"products": [
+{
+"id": 17762819,
+"title_fa": "نگهدارنده آب نیچرهایک مدل CNK2450CF027",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/14e1c44532c76085d941bcafb3637ce2c584450a_1734616349.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 6900000,
+"rrp_price": 6900000,
+"discount_percent": 0
+}
+}
+],
+"friends_like": [],
+"share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. https://www.digikala.com/magnet/posts/212118859067/",
+"circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/ee14d312c57829dad52c24c7e865f4d30451d791_1766345813.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+},
+{
+"id": "124111802553",
+"title": "بازی شب یلدا",
+"caption": "",
+"type": "post",
+"status": "verified",
+"link": null,
+"category_ids": [
+6029
+],
+"tag_ids": [],
+"user_setting_id": "7921175598",
+"related_product_ids": [
+676941,
+584934,
+10934230
+],
+"public_list_id": null,
+"public_list_code": null,
+"views_count": 27494,
+"likes_count": 224,
+"comments_count": 5,
+"created_at": "2025-12-12 02:11:47",
+"author": {
+"id": "7921175598",
+"name": "آرین ترمیمی",
+"username": "boardr",
+"photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/d9bafb0c51bce812b49b4d5d2d94cda85336f255_1654384043.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+"marketplace_seller_id": null,
+"badge": {
+"id": 2,
+"title": "blue tick",
+"code": "1",
+"logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+},
+"seller_info": null
+},
+"media": [
+{
+"id": 1297251,
+"status": "verified",
+"type": "video",
+"url": "https://digikala.arvanvod.ir/qwkg7wg610/OYRERYrq6m/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+"ratio": 0.5625,
+"cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/722d82cbd8d8ec5fd3fb7d755fc0835a07dde799_1765492902.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+"cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/722d82cbd8d8ec5fd3fb7d755fc0835a07dde799_1765492902.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+"cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/722d82cbd8d8ec5fd3fb7d755fc0835a07dde799_1765492902.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+}
+],
+"tags": [],
+"products": [
+{
+"id": 676941,
+"title_fa": "بازی فکری هوپا مدل استوژیت",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/0b7812324ee7d5d07bcbff63f525284c1ca1b5a8_1754485430.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 7190000,
+"rrp_price": 8530000,
+"discount_percent": 16
+}
+},
+{
+"id": 584934,
+"title_fa": "بازی فکری سی جی ای مدل Codenames Pictures",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/1079712.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 5800000,
+"rrp_price": 5800000,
+"discount_percent": 0
+}
+},
+{
+"id": 10934230,
+"title_fa": "بازی فکری مدل ایستگاه",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/bdce23297575ab6ee5e366aee14e5c0ec91b63b0_1679620762.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": null,
+"rrp_price": null,
+"discount_percent": null
+}
+}
+],
+"friends_like": [],
+"share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. https://www.digikala.com/magnet/posts/124111802553/",
+"circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/722d82cbd8d8ec5fd3fb7d755fc0835a07dde799_1765492902.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+},
+{
+"id": "148116445601",
+"title": "پاوربانک چند کاره!",
+"caption": "برای آیفون، ایرپاد یا اپل واچ اگه بخوای یه پاوربانک خوش قیمت و باکیفیت تهیه کنی، این مدل یه گزینه ی بدرد بخوره!",
+"type": "post",
+"status": "verified",
+"link": null,
+"category_ids": [
+1272
+],
+"tag_ids": [
+7550,
+11777,
+740
+],
+"user_setting_id": "64911211453",
+"related_product_ids": [
+20777198
+],
+"public_list_id": null,
+"public_list_code": null,
+"views_count": 24467,
+"likes_count": 136,
+"comments_count": 3,
+"created_at": "2025-12-12 00:03:52",
+"author": {
+"id": "64911211453",
+"name": "حمید صداقت",
+"username": "mobo_studio",
+"photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/10e5f08735c7a0f79ae72891a02a47a8d4be914e_1659856355.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+"marketplace_seller_id": null,
+"badge": {
+"id": 2,
+"title": "blue tick",
+"code": "1",
+"logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+},
+"seller_info": null
+},
+"media": [
+{
+"id": 1297239,
+"status": "verified",
+"type": "video",
+"url": "https://digikala.arvanvod.ir/qwkg7wg610/1Re87R0qDO/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+"ratio": 0.5625,
+"cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/7b2f67d9e1a6f3cea59dc0f4cf9560c95786904b_1765485188.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+"cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/7b2f67d9e1a6f3cea59dc0f4cf9560c95786904b_1765485188.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+"cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/7b2f67d9e1a6f3cea59dc0f4cf9560c95786904b_1765485188.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+}
+],
+"tags": [
+{
+"id": 7550,
+"title": "پاوربانک۱۰هزار"
+},
+{
+"id": 11777,
+"title": "پاوربانک_گوشی"
+},
+{
+"id": 740,
+"title": "پاوربانک"
+}
+],
+"products": [
+{
+"id": 20777198,
+"title_fa": "پاوربانک ریمکس مدل MagSafe Wireless Fast Charge MC-05 22.5W ظرفیت 10000 میلی آمپر ساعت",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/f7a9ab633484a1869308fed69915f79a1922b795_1761641814.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 44800000,
+"rrp_price": 44800000,
+"discount_percent": 0
+}
+}
+],
+"friends_like": [],
+"share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. https://www.digikala.com/magnet/posts/148116445601/",
+"circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/7b2f67d9e1a6f3cea59dc0f4cf9560c95786904b_1765485188.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+},
+{
+"id": "115111023111",
+"title": "اره دیسکی رو به میزی...",
+"caption": "اره دیسکی رو به میزی تبدیل کن",
+"type": "post",
+"status": "verified",
+"link": null,
+"category_ids": [
+6143
+],
+"tag_ids": [
+6704,
+16030,
+18910,
+26016,
+11262,
+1,
+18409
+],
+"user_setting_id": "129110284398",
+"related_product_ids": [
+18486056
+],
+"public_list_id": null,
+"public_list_code": null,
+"views_count": 17895,
+"likes_count": 110,
+"comments_count": 6,
+"created_at": "2025-12-26 14:18:27",
+"author": {
+"id": "129110284398",
+"name": "محسن حسین زاده",
+"username": "Toolstherapy",
+"photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/0889e9c59e4c377e61fe4c585abc1a4817eeb66b_1673866153.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+"marketplace_seller_id": null,
+"badge": {
+"id": 2,
+"title": "blue tick",
+"code": "1",
+"logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+},
+"seller_info": null
+},
+"media": [
+{
+"id": 1298038,
+"status": "verified",
+"type": "video",
+"url": "https://digikala.arvanvod.ir/qwkg7wg610/VqRXgOXBWp/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+"ratio": 0.5623,
+"cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/51e7c1b73c5d3b4b4f26ebee72b7a82bf2a8ad7b_1766746108.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+"cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/51e7c1b73c5d3b4b4f26ebee72b7a82bf2a8ad7b_1766746108.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+"cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/51e7c1b73c5d3b4b4f26ebee72b7a82bf2a8ad7b_1766746108.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+}
+],
+"tags": [
+{
+"id": 6704,
+"title": "اره"
+},
+{
+"id": 16030,
+"title": "اره_دیسکی"
+},
+{
+"id": 18910,
+"title": "اره_میزی"
+},
+{
+"id": 26016,
+"title": "خریدمش"
+},
+{
+"id": 11262,
+"title": "خرید_با_چشمان_باز"
+},
+{
+"id": 1,
+"title": "پیشنهاد_خرید"
+},
+{
+"id": 18409,
+"title": "محسن_حسین_زاده"
+}
+],
+"products": [
+{
+"id": 18486056,
+"title_fa": "تبدیل اره دیسکی به اره میزی و تبدیل اور فرز به فرز میزی مدل MC board",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/7aea0834d6d04cf845d20affaa52a3ecb99b5510_1740942881.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 27992000,
+"rrp_price": 34990000,
+"discount_percent": 20
+}
+}
+],
+"friends_like": [],
+"share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. https://www.digikala.com/magnet/posts/115111023111/",
+"circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/51e7c1b73c5d3b4b4f26ebee72b7a82bf2a8ad7b_1766746108.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+},
+{
+"id": "96011951564",
+"title": "سامسونگت رو خاص تر کن!",
+"caption": "با این ترفند میتونی یه هوم اسکرین خیلی خاص و جذاب واسه گوشیت دیزاین کنی!",
+"type": "post",
+"status": "verified",
+"link": null,
+"category_ids": [
+11
+],
+"tag_ids": [
+105,
+210
+],
+"user_setting_id": "64911211453",
+"related_product_ids": [
+18575577
+],
+"public_list_id": null,
+"public_list_code": null,
+"views_count": 34349,
+"likes_count": 235,
+"comments_count": 10,
+"created_at": "2025-12-12 00:05:52",
+"author": {
+"id": "64911211453",
+"name": "حمید صداقت",
+"username": "mobo_studio",
+"photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/10e5f08735c7a0f79ae72891a02a47a8d4be914e_1659856355.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+"marketplace_seller_id": null,
+"badge": {
+"id": 2,
+"title": "blue tick",
+"code": "1",
+"logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+},
+"seller_info": null
+},
+"media": [
+{
+"id": 1297240,
+"status": "verified",
+"type": "video",
+"url": "https://digikala.arvanvod.ir/qwkg7wg610/zMD17rd62v/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+"ratio": 0.5626,
+"cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/8b04feb412409bfc40f963263702aa363b85b697_1765485350.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+"cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/8b04feb412409bfc40f963263702aa363b85b697_1765485350.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+"cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/8b04feb412409bfc40f963263702aa363b85b697_1765485350.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+}
+],
+"tags": [
+{
+"id": 105,
+"title": "گوشی"
+},
+{
+"id": 210,
+"title": "سامسونگ"
+}
+],
+"products": [
+{
+"id": 18575577,
+"title_fa": "گوشی موبایل سامسونگ مدل Galaxy A56 دو سیم کارت ظرفیت 256 گیگابایت و رم 12 گیگابایت - ویتنام",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/36bc74a654bd32f152b13a2f8f283cf5bb71b370_1746028011.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 562437000,
+"rrp_price": 573685000,
+"discount_percent": 2
+}
+}
+],
+"friends_like": [],
+"share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. https://www.digikala.com/magnet/posts/96011951564/",
+"circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/8b04feb412409bfc40f963263702aa363b85b697_1765485350.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+},
+{
+"id": "58811700183",
+"title": "مکعب های واقعی ماینک...",
+"caption": "مکعب های واقعی ماینکرفت",
+"type": "post",
+"status": "verified",
+"link": null,
+"category_ids": [
+6033
+],
+"tag_ids": [],
+"user_setting_id": "1571178256",
+"related_product_ids": [
+20989620
+],
+"public_list_id": null,
+"public_list_code": null,
+"views_count": 10170,
+"likes_count": 71,
+"comments_count": 1,
+"created_at": "2025-12-17 08:11:36",
+"author": {
+"id": "1571178256",
+"name": "امیرحسین شبانی",
+"username": "Itsamirshabani",
+"photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/714e9ab421444c0f84bc458e0750b3b646b7e61d_1746099987.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+"marketplace_seller_id": null,
+"badge": null,
+"seller_info": null
+},
+"media": [
+{
+"id": 1297541,
+"status": "verified",
+"type": "video",
+"url": "https://digikala.arvanvod.ir/qwkg7wg610/em7ndmN6l3/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+"ratio": 0.5625,
+"cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/6780929aa1a8419c4e9ca0f00cbb2188ff9fdb3e_1765958597.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+"cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/6780929aa1a8419c4e9ca0f00cbb2188ff9fdb3e_1765958597.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+"cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/6780929aa1a8419c4e9ca0f00cbb2188ff9fdb3e_1765958597.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+}
+],
+"tags": [],
+"products": [
+{
+"id": 20989620,
+"title_fa": "ساختنی مغناطیسی 44 تکه نوشو مدل ماینکرفت کد Elite 44",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/6c6e7f85903a101e7287e615e7c369488bac13cb_1764414311.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 19800000,
+"rrp_price": 22500000,
+"discount_percent": 12
+}
+}
+],
+"friends_like": [],
+"share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. https://www.digikala.com/magnet/posts/58811700183/",
+"circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/6780929aa1a8419c4e9ca0f00cbb2188ff9fdb3e_1765958597.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+},
+{
+"id": "152117099459",
+"title": "بازسازی دسته چکش",
+"caption": "بازسازی دسته چکش",
+"type": "post",
+"status": "verified",
+"link": null,
+"category_ids": [
+6659,
+8265,
+6740
+],
+"tag_ids": [],
+"user_setting_id": "5121180306",
+"related_product_ids": [
+2312256,
+304941,
+305339,
+18380794,
+4022522
+],
+"public_list_id": null,
+"public_list_code": null,
+"views_count": 30446,
+"likes_count": 417,
+"comments_count": 32,
+"created_at": "2025-12-06 08:03:16",
+"author": {
+"id": "5121180306",
+"name": "احمدرضا انصاری",
+"username": "191factory",
+"photo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/d4a3a39f0c36fd5f9878a7ff9c6c163a69b4846b_1712130761.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+"marketplace_seller_id": null,
+"badge": {
+"id": 2,
+"title": "blue tick",
+"code": "1",
+"logo": "https://dkstatics-public.digikala.com/digikala-content-x-profile/5bb3f6fe0399893a59bdec45e2ed6a7daf144585_1736177635.png"
+},
+"seller_info": null
+},
+"media": [
+{
+"id": 1296858,
+"status": "verified",
+"type": "video",
+"url": "https://digikala.arvanvod.ir/qwkg7wg610/aM6yRo0Ae9/h_,360_800,480_1500,720_2500,k.mp4.list/master.m3u8",
+"ratio": 0.5625,
+"cover_small": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/f6dfec007749fd783f85c6e658644ded69f8b89f_1765002280.jpg?x-oss-process=image/resize,m_fill,h_64,w_64",
+"cover_medium": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/f6dfec007749fd783f85c6e658644ded69f8b89f_1765002280.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+"cover_big": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/f6dfec007749fd783f85c6e658644ded69f8b89f_1765002280.jpg?x-oss-process=image/resize,w_600/quality,q_80"
+}
+],
+"tags": [],
+"products": [
+{
+"id": 2312256,
+"title_fa": "سنباده اوریال سایش ایران کد A40×30 بسته 3 عددی",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/114926909.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 5100000,
+"rrp_price": 5100000,
+"discount_percent": 0
+}
+},
+{
+"id": 304941,
+"title_fa": "اسپری رنگ آبی فیروزه ای دوپلی کالر مدل RAL 5018 حجم 400 میلی لیتر",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/2181108.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 4400000,
+"rrp_price": 5280000,
+"discount_percent": null
+}
+},
+{
+"id": 305339,
+"title_fa": "اسپری کیلر مات دوپلی کالر مدل Lacquer حجم 400 میلی لیتر",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/2048558.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 5000000,
+"rrp_price": 5000000,
+"discount_percent": 0
+}
+},
+{
+"id": 18380794,
+"title_fa": "سنباده گیر مهاوید مدل sm-100 بسته سه عددی",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/abf63d012cf0f40224879c0f6124ac1ea60d3d50_1739984780.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": 1680000,
+"rrp_price": 1680000,
+"discount_percent": 0
+}
+},
+{
+"id": 4022522,
+"title_fa": "ضد زنگ نانوزیت کد 4022522 حجم 250 میلی لیتر",
+"images": {
+"main": "https://dkstatics-public.digikala.com/digikala-products/33ffadb58276a08cd430488fd2dd65b391716c30_1608118330.jpg?x-oss-process=image/resize,m_lfit,h_115,w_115/quality,q_60"
+},
+"fidibo": null,
+"price": {
+"selling_price": null,
+"rrp_price": null,
+"discount_percent": null
+}
+}
+],
+"friends_like": [],
+"share_url": "این پست رو توی مگنت ببین. فکر کنم به کارت بیاد. https://www.digikala.com/magnet/posts/152117099459/",
+"circle_cover": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/f6dfec007749fd783f85c6e658644ded69f8b89f_1765002280.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+}
+]
+}
+}
